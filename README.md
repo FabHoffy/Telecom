@@ -10,6 +10,7 @@ El presente análisis tiene como objetivo explorar el fenómeno de **evasión de
 - **Pandas** para manipulación y tratamiento de datos.
 - **Plotly Express** para visualizaciones interactivas.
 - Formato de entrada: **JSON** (estructura anidada).
+- Google Colab
 
 ## 📥 Preparación de los datos
 
